@@ -1,0 +1,17 @@
+.first {
+  background-color: aqua;
+  color: white;
+  text-align: center;
+}
+
+.second {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+.third {
+  background-color: gray;
+  color: purple;
+  text-align: center;
+}
