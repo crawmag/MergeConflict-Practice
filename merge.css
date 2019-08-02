@@ -1,0 +1,22 @@
+body {
+  justify-self: center;
+}
+
+h3 {
+  color: white;
+}
+
+.one {
+  background-color: pink;
+  border-style: dotted, blue;
+}
+
+.two {
+  background-color: fuchsia;
+  border-style: solid, black;
+}
+
+.three {
+  background-color: teal;
+  border-style: dashed, green;
+}
